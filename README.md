@@ -1,3 +1,3 @@
 # avada-web
 
-<a href=" https://docs.github.com/articles/troubleshooting-custom-domains/#github-repository-setup-errors for more information">onlin web</a>
+<a href="https://github.com/taheremoghadam/avada-web/edit/main/README.md">onlin web</a>
